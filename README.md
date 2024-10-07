@@ -1,6 +1,6 @@
 # Hi, I’m Vipin Yadav 💫
 - 🌱 I’m currently learning **Full-Stack Web Development under the mentorship of DevTown.**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/vipinyadav01] 
- <br><br>- 💬 Ask me about **JAVA ,Html ,CSS ,JavaScript & Postman**<br><br>- 📫 How to reach me **Vipinyadav9m@gmail.com**<br>
+ <br><br>- 💬 Ask me about **JAVA ,Html ,CSS ,JavaScript ,MongoDB ,ExpressJS ,NodeJS ,Postman**<br><br>- 📫 How to reach me **Vipinyadav9m@gmail.com**<br>
 
 
 ## 🌐 Socials:
