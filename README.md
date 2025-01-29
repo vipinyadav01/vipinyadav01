@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vipinyadav01&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vipinyadav01&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinyadav01&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vipinyadav01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
