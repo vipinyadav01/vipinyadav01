@@ -67,19 +67,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vipinyadav01&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/vipinyadav01/ZERO--FASHION--MERN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vipinyadav01&repo=ZERO--FASHION--MERN&theme=radical" alt="ZERO--FASHION--MERN" />
-  </a>
-  <a href="https://github.com/vipinyadav01/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vipinyadav01&repo=Portfolio&theme=radical" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/vipinyadav01/GlaUniversityAppClone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vipinyadav01&repo=GlaUniversityAppClone&theme=radical" alt="GlaUniversityAppClone" />
-  </a>
-</div>
 
 ## 📈 Contribution Graph
 
