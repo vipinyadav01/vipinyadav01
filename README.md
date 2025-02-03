@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Passionate+about+Coding+%26+Learning;Building+Innovative+Solutions&center=true&width=500&height=50">
 </p>
 
 <p align="center">
