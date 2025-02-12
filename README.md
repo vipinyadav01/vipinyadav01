@@ -35,7 +35,7 @@ const skills = {
 
 - 🔭 Working on **Full-Stack Web Development** projects
 - 🌱 Currently mastering **MERN Stack** under DevTown's mentorship
-- 👨‍💻 Portfolio: [GitHub Projects](https://github.com/vipinyadav01)
+- 👨‍💻 Portfolio: [GitHub Projects](https://vipinyadav01.vercel.app/)
 - 💬 Open to discussions about: **Web Development, JavaScript, MERN Stack**
 - ⚡ Fun fact: **Code, Coffee, and Music** are my perfect productivity trio!
 
