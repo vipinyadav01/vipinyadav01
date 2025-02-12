@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipinyadav01&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vipinyadav3&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -76,7 +76,3 @@ const skills = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinyadav01&theme=dracula" alt="GitHub Streak Stats"/>
-</div>
