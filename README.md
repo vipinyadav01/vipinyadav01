@@ -16,7 +16,7 @@
 
 ### 🎯 Current Focus
 
-I'm a Full Stack Developer passionate about building scalable web applications and exploring new technologies. Currently enhancing my skills at DevTown, where I'm diving deep into modern web development practices.
+I'm a Full Stack Developer passionate about building scalable web applications and exploring new technologies. Currently enhancing my skills at GlaUniversity, where I'm diving deep into modern web development practices.
 
 ### 💻 Technical Arsenal
 
