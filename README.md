@@ -48,12 +48,12 @@ const vipin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinyadav01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vipinyadav01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinyadav01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vipinyadav01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="40%" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadav01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="58%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadav01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
 </div>
 
 ## 💼 Skills & Technologies
@@ -62,7 +62,7 @@ const vipin = {
     
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=whit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
