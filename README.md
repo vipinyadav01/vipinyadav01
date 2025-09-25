@@ -137,13 +137,6 @@ const developer: VipinYadav = {
 <div>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,npm,webpack,vite&perline=8&theme=dark" alt="Tools" />
 </div>
-<br>
-
-### 📈 **Currently Mastering**
-<div>
-    <img src="https://skillicons.dev/icons?i=docker,aws,graphql,prisma,jest,storybook&perline=6&theme=dark" alt="Learning" />
-</div>
-
 </div>
 
 <br>
