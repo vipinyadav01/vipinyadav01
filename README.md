@@ -1,4 +1,4 @@
-# <div align="center">⚡ Vipin Yadav | Crafting Digital Experiences ⚡</div>
+<div align="center">⚡ Vipin Yadav | Crafting Digital Experiences ⚡</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,17,18,19,20&height=300&section=header&text=VIPIN%20YADAV&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20MERN%20Specialist%20•%20Digital%20Innovator&descAlignY=65&descSize=18" width="100%" />
@@ -167,7 +167,7 @@ const developer: VipinYadav = {
 ### 🛍️ **ZERO FASHION** 
 *Full-Stack E-commerce Platform*
 
-[![Zero Fashion](https://github-readme-stats.vercel.app/api/pin/?username=vipinyadav01&repo=ZERO--FASHION--MERN&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&icon_color=FF0080)](https://github.com/vipinyadav01/ZERO--FASHION--MERN.git)
+[![Zero Fashion](https://github-readme-stats.vercel.app/api/pin/?username=vipinyadav01&repo=ZERO--FASHION--MERN&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&icon_color=FF0080)](https://github.com/vipinyadav01/ZERO--FASHION--MERN)
 
 **🔥 Features:** React.js • Node.js • MongoDB • Payment Integration • Admin Dashboard
 
@@ -177,7 +177,7 @@ const developer: VipinYadav = {
 ### 📚 **LEARNING MANAGEMENT** 
 *Educational Platform System*
 
-[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=vipinyadav01&repo=onlineLearningManagementSystem&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&icon_color=FF0080)](https://github.com/vipinyadav01/onlineLearningManagementSystem.git)
+[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=vipinyadav01&repo=onlineLearningManagementSystem&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&icon_color=FF0080)](https://github.com/vipinyadav01/onlineLearningManagementSystem)
 
 **🚀 Features:** MERN Stack • User Authentication • Course Management • Progress Tracking
 
