@@ -304,8 +304,6 @@ graph LR
 
 <img src="https://img.shields.io/badge/🚀%20FREELANCE%20PROJECTS-Available-00FF00?style=for-the-badge&labelColor=000000" alt="Freelance" />
 <img src="https://img.shields.io/badge/💡%20OPEN%20SOURCE-Contributing-FF0080?style=for-the-badge&labelColor=000000" alt="Open Source" />
-<img src="https://img.shields.io/badge/🎯%20MENTORSHIP-Offering-00F5FF?style=for-the-badge&labelColor=000000" alt="Mentorship" />
-
 </div>
 
 <br>
